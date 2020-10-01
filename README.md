@@ -3,6 +3,6 @@ This is a very basic portfolio code using HTML and CSS only. If you want same fo
 
 **Note** *If you're not using custom domain then delete the CNAME file after forking this repo!*
 
-Make pull requests if you find any issue into this code.
+Make pull requests if you find any issue into this code. I would be more than happy.
 
 You can even [contact me!](mailto:nandkk07@gmail.com) :octocat:
